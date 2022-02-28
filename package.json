@@ -1,0 +1,17 @@
+{
+  "name": "mookavibe",
+  "version": "1.0.0",
+  "description": "bot music",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "github:discordjs/opus",
+    "discord.js": "^12.5.3",
+    "discord.js-commando": "github:discordjs/Commando",
+    "ytdl-core-discord": "^1.3.1"
+  }
+}
